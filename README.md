@@ -34,7 +34,7 @@ Este comando irá compilar o código, baixar as dependências necessárias e ini
 
 Para ver um exemplo de funcionamento da API, você pode assistir ao vídeo abaixo:
 
-[vinho-notas-harmonizacao.mp4](..%2F..%2FTCC%2Fvinho-notas%2Fvinho-notas-harmonizacao.mp4)
+[vinho-notas-harmonizacao.mp4](vinho-notas-harmonizacao.mp4)
 
 ## Licença
 
